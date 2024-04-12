@@ -1,6 +1,6 @@
 # Financial-report-Q-A
 
-This chatbot helps you with financial questions and analyzes numerical data. It can also make predictions about the future and compare information between different companies.
+This chatbot helps you with financial questions and analyzes numerical data from financial reports. It can also make predictions about the future and compare information between different companies.
 
 **Key Features:**
 
