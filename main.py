@@ -36,8 +36,8 @@ nlp = spacy.load("en_core_web_sm")
 
 # Import necessary files
 
-df = pd.read_csv("Financial1.csv")
-df_mp = pd.read_csv("qa1.csv")
+df = pd.read_csv("Financial_data.csv")
+df_mp = pd.read_csv("qa_response.csv")
 qa_data = ""
 
 # pre Process the data
