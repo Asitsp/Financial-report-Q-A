@@ -16,8 +16,7 @@ Technologies Used:
 
 How to Use:
 
-    Download the code from GitHub.
-    Install the necessary software.
+    Download the code and files from GitHub.
     Run the program.
     Ask your financial questions or request data analysis.
 
