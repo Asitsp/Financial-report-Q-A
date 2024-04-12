@@ -1,6 +1,6 @@
 import streamlit as st
-import bot3
-from bot3 import fun_bot
+import main
+from main import fun_bot
 #import pandas as pd
 #import spacy
 #from spacy.matcher import PhraseMatcher
